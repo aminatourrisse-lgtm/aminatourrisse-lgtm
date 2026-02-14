@@ -12,13 +12,13 @@
 <!-- les lien de contact  -->
 <div align="center">
   <a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://www.linkedin.com/in/amina-tourrisse-05665839a/" alt="LinkedIn Badge"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="CV Badge"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="mailto:aminatourrisse@gmail.com" alt="Gmail Badge"/>
 </a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio Badge"/>
