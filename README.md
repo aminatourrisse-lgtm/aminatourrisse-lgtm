@@ -1,6 +1,6 @@
 <h1 align="center">hi 👋 I'm Amina Tourrisse </h1><br>
 <div align="center">
-  <a href="https://github.com/Amina123456789101112">
+  <a href="#">
     <img src="https://github.com/aminatourrisse-lgtm/aminatourrisse-lgtm/blob/main/2-ezgif.com-gif-maker.gif?raw=true" height="200px">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
