@@ -17,9 +17,10 @@
 <a href="#">
   <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="CV Badge"/>
 </a>
-<a href="#">
-  <img src="mailto:aminatourrisse@gmail.com" alt="Gmail Badge"/>
+<a href="mailto:aminatourrisse@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
+
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio Badge"/>
 </a>
