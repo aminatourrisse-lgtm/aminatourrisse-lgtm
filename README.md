@@ -11,8 +11,8 @@
 
 <!-- les lien de contact  -->
 <div align="center">
-  <a href="#">
-  <img src="https://www.linkedin.com/in/amina-tourrisse-05665839a/" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/amina-tourrisse-05665839a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="CV Badge"/>
