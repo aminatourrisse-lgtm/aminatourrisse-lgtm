@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
-<a href="#" target="_blank">
+<a href="https://portfolio-phi-fawn-rrf3ec2dsi.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio Badge"/>
 </a>
 
