@@ -97,10 +97,6 @@ languages: ["Arabic", "French", "English"],
 </p>
 <hr></hr>
 <h1>Github Stats: </h1><br>
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Amina123456789101112&show_icons=true&theme=tokyonight" />
-</div>
-
 <br/>  
 
 <div align="center">
@@ -108,10 +104,6 @@ languages: ["Arabic", "French", "English"],
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amina123456789101112&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Amina123456789101112" />
-</div>
 
 <hr></hr>
 <p dir="auto">⭐️ <em>Thanks for visiting my GitHub profile! Feel free to explore my projects or reach out if you'd like to collaborate.</em></p>
