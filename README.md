@@ -14,9 +14,10 @@
   <a href="https://www.linkedin.com/in/amina-tourrisse-05665839a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="CV.TOURRISSE (6).pdf" download>
+<a href="https://github.com/aminatourrisse-lgtm/aminatourrisse-lgtm/raw/main/CV.TOURRISSE%20(6).pdf" download>
   <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="CV Badge"/>
 </a>
+
 
 <a href="mailto:aminatourrisse@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
